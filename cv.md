@@ -10,25 +10,26 @@
 * GitHub: tsaplan
 
 ### `About`
-I have been working as QA more than 5 years. My goal is to learn everything new and exciting. I love to test and coffee. I can(love) spend a lot of time doing what interests me. My core strengths are in problem solving and fast learning.
+I have been working as QA more than 5 years. My goal is to learn everything new and exciting. I love to test and coffee. My core strengths are I like work, I am patient and sociable.
+In my works I made manual, mobile and automation testing, was Jira/Bitbucket administration, documentation writer. For automation testing I use AutoIt from desktop applicaion and Katalon Studio and Selenium Python from web small project. 
+
 
 ### `Skills`
  __Programming lengauge__
  
- * Python 
  * Pascal, Object Pascal
- * Delphi (5,6,7)+ Database,
- * Java (basic),
- * JavaScript (basic).
+ * Delphi (5,6,7)+ Database
+ * Java (basic)
+ * JavaScript (basic)
+ * Python (basic)
  
  __Testing tools__
  
- * AutoIt, 
- * Katalon Studio, 
+ * AutoIt 
+ * Katalon Studio 
  * Selenium Python 
- * Badboy,
- * Bagzilla 2.20,
- * Jira.
+ * Bagzilla 2.20
+ * Jira
   
   __System__
   
@@ -37,18 +38,18 @@ I have been working as QA more than 5 years. My goal is to learn everything new 
  
  __Database__
  
-  * Interbase,
-  * MySQL,
-  * MS SQL,
+  * Interbase
+  * MySQL
+  * MS SQL
   * PostgreSQL
     
   __Virtualization system__
 
-  * VirtualBox,
-  * Hyper-V.
+  * VirtualBox
+  * Hyper-V
 
 __Control version__
-   * SVN,
+   * SVN
    * Git
 
 ### `Code example`
@@ -67,6 +68,7 @@ def check_is_selected(class_name):
 __National Lviv Polytechnic University__ System analyst of the computer systems and networks, master
 
 Course Seqiurity testing on [software-testing.ru](software-testing.ru)
+Course Postman for API testing on [stepik.org](stepik.org)
 
 ### Work Experince
 * __Destiny Software__ from 2019
@@ -76,4 +78,5 @@ Course Seqiurity testing on [software-testing.ru](software-testing.ru)
 ### Language
 * Polish (Intermediate)
 * Eglish (Pre-Intermediate)
+* Russian (experienced)
 * Ukrainski (Native speaker)
