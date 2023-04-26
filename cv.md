@@ -10,8 +10,8 @@
 * GitHub: tsaplan
 
 ### `About`
-I have been working as QA more than 5 years. My goal is to learn everything new and exciting. I love to test and coffee. My core strengths are I like work, I am patient and sociable.
-In my works I made manual, mobile and automation testing, was Jira/Bitbucket administration, documentation writer. For automation testing I use AutoIt from desktop applicaion and Katalon Studio and Selenium Python from web small project. 
+Over 5 years of experience in Software Industry with Quality Assurance and Manual, Functional, Automation Testing of Web, Mobile and Desktop applications in Client/Server environment. My goal is to learn everything new and exciting. I love to test and coffee. My core strengths are that I am patient, sociable and have great comunication skills.
+ 
 
 
 ### `Skills`
@@ -72,8 +72,22 @@ Course Postman for API testing on [stepik.org](stepik.org)
 
 ### Work Experince
 * __Destiny Software__ from 2019
+  - Cross Browser testing of application on Google Chrome, Internet explorer, and Fire Fox browsers and Cross Platform testing on Windows
+  - Selenium Python and Katalon Studio was used to web page testing
+  - Regression and Functional Testing 
+  - Used an in-house development tracking tool software bugs
 * __AB System__ 2015-2019
+  - Cross Platform testing on Windows and Windows Server
+  - Experience on Regression Testing in Mobile App
+  - Compiled detailed reports of software bugs, used JIRA to track said bugs and ensured quality products
+  - Implement administration Jira
+  - Analysis requirements documentation, wrote user manual
+  - Thorough hands on experience with all levels of testing including Usability, Smoke, Functional, Integration, Regression, Installation Testing
+
 * __Usoft__ 2006-2009
+  - Cross Browser testing of application on Google Chrome, Internet explorer, and Fire Fox browsers and Cross Platform testing on Windows
+  - Desighn test cases
+  - Wrote several SQL queries to test Web App
 
 ### Language
 * Polish (Intermediate)
