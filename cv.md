@@ -83,11 +83,13 @@ Course Postman for API testing on [stepik.org](stepik.org)
   - Analysis requirements documentation, wrote user manual
   - Thorough hands on experience with all levels of testing including Usability, Smoke, Functional, Integration, Regression, Installation Testing
   - Resolve problems with App after Windows update
+  - Wrote Autocomplete DB script (Object Pascal)
 
 * __Usoft__ 2006-2009
   - Cross Browser testing of application on Google Chrome, Internet explorer, and Fire Fox browsers and Cross Platform testing on Windows
   - Desighn test cases
   - Wrote several SQL queries to test Web App
+  - Preparing automation test scripts (JavaScript), running tests, monitoring/analyzing results
 
 ### Language
 * Polish (Intermediate)
