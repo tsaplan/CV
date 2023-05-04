@@ -91,7 +91,7 @@ Course Postman for API testing on [stepik.org](stepik.org)
   - Wrote several SQL queries to test Web App
   - Prepared automation test scripts (JavaScript), running tests, monitoring/analyzing results
 
-### Language
+### `Language`
 * Polish (Intermediate)
 * Eglish (Pre-Intermediate)
 * Russian (experienced)
