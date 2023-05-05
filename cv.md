@@ -70,7 +70,7 @@ Course Postman for API testing on [stepik.org](stepik.org)
 
 ### `Work Experince`
 * __Destiny Software__ from 2019
-  - Cross Browser testing of application on Google Chrome, Internet explorer, and Fire Fox browsers
+  - Cross Browser testing of application on Google Chrome, Internet explorer, and Firefox browsers
   - Selenium Python and Katalon Studio was used to the web page testing
   - Regression and Functional Testing 
   - Used the internal bug tracking tool in the software
