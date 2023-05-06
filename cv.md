@@ -78,12 +78,13 @@ Course Postman for API testing on [stepik.org](stepik.org)
 * __AB System__ 2015-2019
   - Cross Platform testing on Windows and Windows Server
   - Experience on Regression Testing in Mobile App
+  - Implemented and administered Jira
   - Compiled detailed reports of software bugs, used JIRA to track said bugs and ensured quality products
-  - Implementated and administrated Jira
   - Analysis requirements documentation, wrote user manual
   - Thorough hands on experience with all levels of testing including Usability, Smoke, Functional, Integration, Regression, Installation Testing
   - Resolved problems with App after Windows update
   - Wrote Autocomplete DB script (Object Pascal)
+  - Implemented cloud thechnology (Hyper-V), created cloud solutions for support
 
 * __Usoft__ 2006-2009
   - Cross Browser testing of application on Google Chrome, Internet explorer, and Fire Fox browsers and Cross Platform testing on Windows
